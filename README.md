@@ -1,1 +1,1 @@
-# smaple-java
+# sample-java
